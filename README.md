@@ -1,5 +1,5 @@
 <h1>The Green Taxi - Not So Green Anymore?</h1>
-A visual analysis by Gaurav Shahane and Akshata Salehittal of University of Maryland College Park
+A visual analysis by Gaurav Shahane and Akshata Salehittal of University of Maryland College Park<br>
 <br>
 <p>New York loves its taxicabs.<br><br>There are over 20,000 Yellow and Green taxicabs in New York. The additional e-hail services such as Uber and Lyft are bringing a lot more number of taxis in the New York region. Prior to 2013, most of the outer boroughs of New York were underserved by yellow cabs and were dominated by unlicensed drivers. <br><br>Introduced in 2013, Green taxis were meant to serve the outer boroughs(Bronx, Queens, Brooklyn, Staten Island and Manhattan above the 110th Street) to tackle the illegal taxi problem. Almost 3 years since its launch, as per various news articles, Green taxi is not doing that well. It would be interesting to know how the Greens are performing based on Taxi Trip Records in New York.</p> 
 
@@ -41,7 +41,7 @@ For Green taxicabs, most of the drops patterns of the Green and the Yellow taxis
 
 <br><h2>Tools used for implementation</h2>
 Data cleaning and aggregation: <b>R, Excel</b>
-Creation of Visualizations: <b>Tableau, R, Adobe Photoshop</b>
+</br>Creation of Visualizations: <b>Tableau, R, Adobe Photoshop</b>
 
 <br><h2>References:</h2>
 - (Reuben Fischer-Baum, Sep 22, 2015) Green Taxi Stays Close to Center, Retrieved Sep 12, 2016 from https://fivethirtyeight.com/datalab/new-yorks-green-cabs-stay-close-to-the-city-center/

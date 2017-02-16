@@ -40,7 +40,7 @@ For Green Taxicabs, most of the pickups were centered on Southern Manhattan and 
 For Green taxicabs, most of the drops patterns of the Green and the Yellow taxis are very similar. Green taxis does serve Brooklyn better than Yellow taxis to some extent but areas like Bronx are still underserved. The introduction of the mobile apps Arro and Way2ride have created equal opportunity for Green Taxis but the nature of trip followed by both the taxis are very similar thus defeating the entire purpose of introducing the greens in the first place.<br>
 
 Based on falling numbers of Green Taxi and dialution of its purpose of serving New York Boroughs, we can ask questions such as: 
-<br>what can be done to strengthen Green Taxi further? or do we need Green Taxi at all?
+<b>what can be done to strengthen Green Taxi further? or do we need Green Taxi at all?</b>
 
 <h2>Tools used for implementation</h2>
 Data cleaning and aggregation: <b>R, Excel</b>

@@ -39,10 +39,10 @@ For Green Taxicabs, most of the pickups were centered on Southern Manhattan and 
 <center><img src="https://github.com/gaurav-shahane/NYC-Green-Taxi-Data-Visualization/raw/master/Visualization%20Images/07%20Green%20Vs%20Yello%20Pickups.png" height=80% width=80% align="middle"></center>
 For Green taxicabs, most of the drops patterns of the Green and the Yellow taxis are very similar. Green taxis does serve Brooklyn better than Yellow taxis to some extent but areas like Bronx are still underserved. The introduction of the mobile apps Arro and Way2ride have created equal opportunity for Green Taxis but the nature of trip followed by both the taxis are very similar thus defeating the entire purpose of introducing the greens in the first place.<br>
 
-<br><h2>Tools used for implementation</h2>
+<h2>Tools used for implementation</h2>
 Data cleaning and aggregation: <b>R, Excel</b>
 </br>Creation of Visualizations: <b>Tableau, R, Adobe Photoshop</b>
 
-<br><h2>References:</h2>
+<h2>References:</h2>
 - (Reuben Fischer-Baum, Sep 22, 2015) Green Taxi Stays Close to Center, Retrieved Sep 12, 2016 from https://fivethirtyeight.com/datalab/new-yorks-green-cabs-stay-close-to-the-city-center/
 - (Post Editorial Board, Oct 22, 2015) It’s not easy driving green: Uber & a new cab crisis, Retrieved  Sep 12, 2016 from http://nypost.com/2015/10/22/its-not-easy-driving-green-uber-a-new-cab-crisis/
